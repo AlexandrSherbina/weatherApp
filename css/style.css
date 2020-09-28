@@ -1,0 +1,26 @@
+html { 
+    background: url(../images/website-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  body {
+      background: none;
+  }
+  #mainDiv {
+      text-align: center;
+      margin-top: 10%;
+  }
+  #forecastDiv {
+    text-align: center;
+  }
+  #city {
+    width: 35%;
+    margin: 32px auto;
+  }
+  .alert {
+    width: 40%;
+    margin: 5% auto;
+  }
